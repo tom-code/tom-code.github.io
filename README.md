@@ -8,3 +8,7 @@
 - <https://github.com/tom-code/netdrv>
 - <https://github.com/tom-code/nbds>
 - <https://github.com/tom-code/netifmod>
+- <https://github.com/tom-code/h2srvjs>
+- <https://github.com/tom-code/scad>
+- <https://github.com/tom-code/elfoca>
+- <https://github.com/tom-code/ptrace>
