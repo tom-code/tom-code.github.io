@@ -12,3 +12,4 @@
 - <https://github.com/tom-code/scad>
 - <https://github.com/tom-code/elfoca>
 - <https://github.com/tom-code/ptrace>
+- <https://github.com/tom-code/staticss> - k8s cni/ipam plugin with configurable static ips for statefulsets
