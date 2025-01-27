@@ -26,8 +26,11 @@ MatterDeviceInfo {
 ```
 
 `demo commission --local-address [fdf4::80a:4b0a:6ddc:8216]:5555 [fdf4::b219:21ff:fefb:db87]:5540 100 300 65659274`
+
 `demo command invoke-command-on --local-address [fdf4::80a:4b0a:6ddc:8216]:5555   --device-address [fdf4::b219:21ff:fefb:db87]:5540`
+
 `demo command invoke-command-off --local-address [fdf4::80a:4b0a:6ddc:8216]:5555   --device-address [fdf4::b219:21ff:fefb:db87]:5540`
+
 ```
 demo command list-supported-clusters2 --local-address [fdf4::80a:4b0a:6ddc:8216]:5555   --device-address [fdf4::b219:21ff:fefb:db87]:5540 0
 Descriptor
